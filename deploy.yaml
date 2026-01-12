@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: 
+        image: docker.io/kimwooseop/ci_build:v2
         ports:
         - containerPort: 80
 
