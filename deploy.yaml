@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: docker.io/kimwooseop/ci_build:jenkins-ci_build-15
+        image: docker.io/kimwooseop/ci_build:jenkins-ci_build-16
         ports:
         - containerPort: 80
 
